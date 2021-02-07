@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> This is a NodeJS built tool to scrap https://utopya.fr/, it retrieve data and exports it as an Excel file. This is a public version (and open source ofc). Pull Requests and issues are welcome !
+> This is a NodeJS built tool to scrap https://utopya.fr/, it retrieve data and exports it as an Excel file. This is a public version (and open source ofc).
 
 ## Install
 
